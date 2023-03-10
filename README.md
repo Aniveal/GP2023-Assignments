@@ -2,10 +2,10 @@
 
 ## Student data
 
-Name: 'Your real name'  
-Legi-Nr: 'Your legi number'
+Name: Timo Loher 
+Legi-Nr: 17-929-910
 
-Email: 'Your email address'
+Email: tloher@student.ethz.ch
 
 Carefully follow the instructions below to setup your assignment repository.
 
